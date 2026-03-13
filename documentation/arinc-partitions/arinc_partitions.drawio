@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
+  <diagram name="Page-1" id="9O0SBgufzoajOwPnsKNe">
+    <mxGraphModel dx="1298" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="09DQlaiwK7QteL2rKX9o-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="130" width="750" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="09DQlaiwK7QteL2rKX9o-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontStyle=1" value="ARINC 653 OS" vertex="1">
+          <mxGeometry height="30" width="180" x="325" y="376" as="geometry" />
+        </mxCell>
+        <mxCell id="09DQlaiwK7QteL2rKX9o-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Comparator&lt;/b&gt;&lt;div&gt;&lt;i&gt;Partition 3&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;(10 ms) 12.5%&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="90" x="417" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="09DQlaiwK7QteL2rKX9o-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;DAL A&lt;/b&gt;&lt;div&gt;&lt;i&gt;Partition 1&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;(20 ms) 25%&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="57" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="09DQlaiwK7QteL2rKX9o-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;DAL A&lt;/b&gt;&lt;div&gt;&lt;i&gt;Partition 2&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;(20 ms) 25%&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="237" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="09DQlaiwK7QteL2rKX9o-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;DAL C / D / E&lt;/b&gt;&lt;div&gt;&lt;i&gt;Partition 4&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;(30 ms) 37.5%&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="270" x="507" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
